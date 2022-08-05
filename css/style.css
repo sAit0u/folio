@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    
+    padding-top: 120px;
     background: rgb(191, 206, 168);
 }
 h1, ul{
@@ -40,6 +40,7 @@ p.product{
 #top{
     width: 100%;
     max-width: 1980px;
+    padding: 0 0;
     position: fixed;
     top: 0;
     left: 0;
