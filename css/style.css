@@ -55,7 +55,12 @@ p.product{
     text-align: left;
     color: rgb(17, 17, 17);
 }
-
+#connect h1{
+    text-align: center;
+}
+.email{
+    background: rgb(90, 80, 80);
+}
 .nav{
     overflow: auto;
     border: 1px solid black;
