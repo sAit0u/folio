@@ -40,6 +40,9 @@ p.product{
 #top{
     width: 100%;
     max-width: 1980px;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 #titel {
     background: grey;
